@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue)
 
 **I'm an Early 🐤** 
 
@@ -73,5 +73,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/03/2022 14:09:52 UTC
+ Last Updated on 15/03/2022 15:09:41 UTC
 <!--END_SECTION:waka-->
