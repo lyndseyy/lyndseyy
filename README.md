@@ -2,8 +2,6 @@
 
 ## My stats for the week
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 **I'm an Early 🐤** 
@@ -73,5 +71,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/03/2022 02:23:13 UTC
+ Last Updated on 20/03/2022 03:05:08 UTC
 <!--END_SECTION:waka-->
