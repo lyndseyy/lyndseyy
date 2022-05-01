@@ -2,6 +2,8 @@
 
 ## My stats for the week
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **I'm an Early 🐤** 
@@ -33,22 +35,16 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-Java                     43 mins             ████████████████░░░░░░░░░   64.69% 
-YAML                     20 mins             ███████░░░░░░░░░░░░░░░░░░   30.55% 
-Kotlin                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DigDigDig                1 hr 3 mins         ███████████████████████░░   94.14% 
-HungerGames              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
-Shungite                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -68,5 +64,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/05/2022 03:33:50 UTC
+ Last Updated on 01/05/2022 04:17:45 UTC
 <!--END_SECTION:waka-->
