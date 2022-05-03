@@ -2,6 +2,8 @@
 
 ## My stats for the week
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
@@ -33,16 +35,21 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   99.97% 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HungerGames              0 secs              ██████████████████████░░░   89.91% 
+Fiesta                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+DigDigDig                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -62,5 +69,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/05/2022 03:31:41 UTC
+ Last Updated on 03/05/2022 04:12:23 UTC
 <!--END_SECTION:waka-->
