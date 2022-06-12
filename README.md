@@ -4,9 +4,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    168 commits    ███████░░░░░░░░░░░░░░░░░░   29.79% 
@@ -15,7 +15,7 @@
 🌙 Night      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm most productive on Thursday** 
 
 ```text
 Monday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
@@ -29,7 +29,7 @@ Sunday       50 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: America/Halifax
@@ -58,7 +58,7 @@ Mac                      7 hrs 48 mins       ███████░░░░�
 
 ```
 
-**I Mostly Code in Java** 
+**💻 I mostly code in Java** 
 
 ```text
 Java                     4 repos             ████████████░░░░░░░░░░░░░   50.0% 
@@ -74,5 +74,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:04:49 UTC
+ Last Updated on 12/06/2022 08:04:59 UTC
 <!--END_SECTION:waka-->
