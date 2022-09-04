@@ -44,7 +44,7 @@ VS Code                  2 mins              ███████████�
 Viewerr                  2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -64,5 +64,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 03:51:04 UTC
+ Last Updated on 04/09/2022 04:31:23 UTC
 <!--END_SECTION:waka-->
