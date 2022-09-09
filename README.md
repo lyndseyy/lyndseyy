@@ -2,7 +2,7 @@
 
 ## My stats for the week
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -35,16 +35,16 @@ Sunday       185 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████████████████   100.0%
+HTML                     31 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Viewerr                  2 mins              █████████████████████████   100.0%
+September08              31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -64,5 +64,5 @@ Kotlin                   1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/09/2022 03:50:59 UTC
+ Last Updated on 09/09/2022 04:31:56 UTC
 <!--END_SECTION:waka-->
