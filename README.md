@@ -2,7 +2,7 @@
 
 ## My stats for the week
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,5 +67,5 @@ C                        1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 03:00:07 UTC
+ Last Updated on 19/10/2022 03:58:49 UTC
 <!--END_SECTION:waka-->
