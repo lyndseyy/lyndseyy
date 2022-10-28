@@ -35,20 +35,16 @@ Sunday       148 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Halifax
 
 💬 Programming Languages: 
-HTML                     2 hrs 15 mins       █████████████░░░░░░░░░░░░   55.17% 
-CSS                      1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.83%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WebDev                   1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   33.41% 
-Test2PartB               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.44% 
-TermProj                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93% 
-Pages                    49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -69,5 +65,5 @@ C                        1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lyndseyy/lyndseyy/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 03:38:03 UTC
+ Last Updated on 28/10/2022 04:20:54 UTC
 <!--END_SECTION:waka-->
