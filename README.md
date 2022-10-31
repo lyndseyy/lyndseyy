@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Currently Listening To](https://lastfm-recently-played.vercel.app/api?user=lynziee)
+
 ## My stats for the week
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2018%20mins-blue)
