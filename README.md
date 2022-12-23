@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML    1 hr 34 mins    ██████████████████████▒░░   89.09 %
-Other   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Other   10 mins         ███████████████▓░░░░░░░░░   62.09 %
 ```
 
 <!--END_SECTION:waka-->
