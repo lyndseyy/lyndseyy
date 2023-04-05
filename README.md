@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin         19 mins         ███████████████████████▓░   94.63 %
-textmate       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
