@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 mins         ███████████████████████▒░   92.85 %
-Kotlin       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
